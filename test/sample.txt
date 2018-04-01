@@ -1,2 +1,3 @@
 Welcome to git hub!
 This is new branch development !
+This is development commit for merge via git bash !
